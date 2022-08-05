@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<ul>
+<li>My name is Shahid Hashmi, and I'm currently just starting out on my developer journey.</li>
+<li>I'm currently based out of Pittsburgh, PA, USA - but spend a large portion of the year in Columbus, OH, USA.</li>
+<li>I am enjoying the basics around jS, CSS, and html right now.</li>
+<li>I have some awesome ideas for web pages and apps, and I can't wait to turn these into reality!</li>
+<li>Please connect with me if you have any resources, tools, videos, or literature that you would recommend early in your developer career.</li>
+</ul>
