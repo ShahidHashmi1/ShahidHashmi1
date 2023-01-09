@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <ul>
-<li>My name is Shahid Hashmi, and I'm starting out on my developer journey.</li>
+<li>My name is Shahid Hashmi, and I'm excited to be starting out on my software developer journey.</li>
 <li>I'm currently based out of Pittsburgh, PA, USA - but spend a large portion of the year in Columbus, OH, USA.</li>
-<li>I am enjoying the basics around jS, CSS, and html right now.</li>
-<li>I have some awesome ideas for web pages and apps, and I can't wait to turn these into reality!</li>
-<li>Please connect with me if you have any resources, tools, videos, or literature that you would recommend early in your developer career.</li>
+<li>I love to travel and would gladly consider most places in the US for the right opportunity.</li>
+<li>I recently completed a full-stack web development bootcamp through 2U and The Ohio State University. This program went through the entire MERN stack (MongoDB, Express.js, React.js, Node.js). Although I am confident in the principals of this stack, I am very eager to learn new languages and tech stacks moving forward to expand my programming knowledge and capabilities.</li>
+<li>I am currently working on some freelance opportunities while building my craft every single day - all while searching for an opportunity to work alongside and learn from industry professionals.</li>
+<li>Please connect with me! I am open to any career opportunities, advice, resources, tools, videos, or literature that you would recommend early in your developer career.</li>
+  <p>Thank you!</p>
 </ul>
